@@ -1,5 +1,7 @@
-res://scenes/player.tscn
 res://scenes/game.tscn
-res://scripts/coin.gd
+res://scenes/platform_dirt.tscn
+res://scenes/slime.tscn
+res://scenes/slime.gd
 res://scripts/killzone.gd
-res://scenes/killzone.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
